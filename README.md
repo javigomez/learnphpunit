@@ -1,4 +1,7 @@
-phpunit
+PHPUnit examples
 =======
 
-PHPUnit example files
+## Get Coverage:
+```bash
+phpunit --coverage-html ./report CalculatorTest;
+```
